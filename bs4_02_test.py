@@ -359,9 +359,9 @@ if __name__ == '__main__':
         print(b.text)
 
 
-
-    for c in soup.select('.search'):
-        print(c)
+    #
+    # for c in soup.select('.search'):
+    #     print(c)
     # for a in soup.find_all('a'):
     #     print(a.name)
     #     print(a.attrs)
